@@ -65,5 +65,5 @@ if (selected =='Diabetes Prediction'):
     st.success(diagnosis)
 # streamlit run "filepath"
 
-
+print("end of page")
 
